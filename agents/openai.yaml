@@ -1,0 +1,4 @@
+interface:
+  display_name: "Before Work"
+  short_description: "Clarify execution and change tasks before acting"
+  default_prompt: "Use $before-work to ask one Socratic question at a time, confirm the goal, then execute."
